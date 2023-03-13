@@ -24,5 +24,5 @@
 
 <h3>Reach Me</h3>
 <hr></hr>
-<img src="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-LinkedIn-Logo.jpg" alt="LinkedIn_logo" width="150px">
+<a href="https://www.linkedin.com/in/bruce-milliken-45999b1bb/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-LinkedIn-Logo.jpg" alt="LinkedIn_logo" width="150px"></a>
 
