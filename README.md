@@ -17,7 +17,7 @@
 <ul>
   <li>Junior Software Developer with a background in Business Management</li>
   <li>Recent graduate from a full stack developer bootcamp with <strong>Boolean UK</strong></li>
-  <li>Working as a Ful Stack Developer</li>
+  <li>Working as a Full Stack Developer</li>
   <li>I enjoy going to the gym, cooking new dishes, and playing videogames in my spare time</li>
 </ul>
 
