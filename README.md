@@ -17,8 +17,7 @@
 <ul>
   <li>Junior Software Developer with a background in Business Management</li>
   <li>Recent graduate from a full stack developer bootcamp with <strong>Boolean UK</strong></li>
-  <li>Looking for any role in tech as a Junior Developer</li>
-  <li>I love improving and learning new skills and applying them to personal projects</li>
+  <li>Working as a Ful Stack Developer</li>
   <li>I enjoy going to the gym, cooking new dishes, and playing videogames in my spare time</li>
 </ul>
 
